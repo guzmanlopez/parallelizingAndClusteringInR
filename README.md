@@ -5,7 +5,7 @@ The aim of this script is that you can customite it to your needs! Also the aim 
 
 **Note:** to make a cluster, you have to be able to access the other PCs via SSH.
 
-```{r}
+```r
 
 ################################################################################
 ############### R routine for cluster and parallel computations ################
