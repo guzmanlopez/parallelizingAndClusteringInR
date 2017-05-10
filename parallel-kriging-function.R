@@ -35,7 +35,7 @@ numberOfMachines <- 3
 # E.g.: Machine1 = host: localhost, user: user1 and nCores: 7
 # It's recommended to use number of total cores -1, let one core be free if you need to run something
 hosts <- c('localhost', '10.5.1.1', '10.5.1.2')
-users <- c('guzman', 'user2', 'user3')
+users <- c('user1', 'user2', 'user3')
 nCores <- c(7, 8, 4)
 
 # Machines's Adresses
